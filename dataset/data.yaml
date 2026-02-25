@@ -1,0 +1,9 @@
+path: /content/drive/MyDrive/kidney_dataset
+
+train: train/images
+val: valid/images
+test: test/images
+
+names:
+  0: kidney-stones
+  1: Tas_Var
