@@ -58,4 +58,4 @@ interface = gr.Interface(
     description="Upload CT Image to Detect Kidney Stones"
 )
 
-interface.launch(share=True)
+interface.launch()
